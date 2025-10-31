@@ -2,7 +2,7 @@
 speaker: Luke Melia
 title: Organizing and Packaging Rich Javascript Apps with Ruby
 year: 2012
-youtube_video_id: swi_Pa5rQfk
+vimeo_video_id: 45094222
 ---
 
 <p>
